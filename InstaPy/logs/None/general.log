@@ -1,0 +1,10 @@
+WARNING [2020-03-31 19:14:31] [None]  Heeh! Error occurred while getting a DB profile for 'None':
+	b'NOT NULL constraint failed: profiles.name'
+WARNING [2020-06-18 10:45:31] [None]  Heeh! Error occurred while getting a DB profile for 'None':
+	b'NOT NULL constraint failed: profiles.name'
+WARNING [2020-06-18 10:45:42] [None]  Heeh! Error occurred while getting a DB profile for 'None':
+	b'NOT NULL constraint failed: profiles.name'
+WARNING [2020-09-24 11:16:44] [None]  Heeh! Error occurred while getting a DB profile for 'None':
+	b'NOT NULL constraint failed: profiles.name'
+WARNING [2020-09-24 11:17:34] [None]  Heeh! Error occurred while getting a DB profile for 'None':
+	b'NOT NULL constraint failed: profiles.name'

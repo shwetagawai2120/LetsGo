@@ -1,0 +1,217 @@
+INFO [2020-06-19 12:59:09] [shwetagawai03]  Session started!
+INFO [2020-06-19 12:59:09] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-19 12:59:17] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-19 12:59:17] [shwetagawai03]  - Current IP is "103.143.8.122" and it's from "India/IN"
+INFO [2020-06-19 12:59:17] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-19 12:59:17] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-19 12:59:17] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-19 13:00:04] [shwetagawai03]  Timed out with failure while explicitly waiting until title contains 'Login' string!
+
+INFO [2020-06-19 13:00:25] [shwetagawai03]  Logged in successfully!
+INFO [2020-06-19 13:00:25] [shwetagawai03]  Saving account progress...
+INFO [2020-06-19 14:02:44] [shwetagawai03]  Session started!
+INFO [2020-06-19 14:02:45] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-19 14:02:55] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-19 14:02:55] [shwetagawai03]  - Current IP is "103.143.8.122" and it's from "India/IN"
+INFO [2020-06-19 14:02:55] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-19 14:02:55] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-19 14:02:55] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-19 14:03:17] [shwetagawai03]  Logged in successfully!
+INFO [2020-06-19 14:03:17] [shwetagawai03]  Saving account progress...
+INFO [2020-06-19 14:03:35] [shwetagawai03]  Workspace in use: "C:/Users/HP/InstaPy"
+INFO [2020-06-19 14:04:24] [shwetagawai03]  Session started!
+INFO [2020-06-19 14:04:24] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-19 14:04:28] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-19 14:04:28] [shwetagawai03]  - Current IP is "103.143.8.122" and it's from "India/IN"
+INFO [2020-06-19 14:04:28] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-19 14:04:28] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-19 14:04:28] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-19 14:04:41] [shwetagawai03]  Logged in successfully!
+INFO [2020-06-19 14:04:41] [shwetagawai03]  Saving account progress...
+INFO [2020-06-19 14:04:56] [shwetagawai03]  Workspace in use: "C:/Users/HP/InstaPy"
+INFO [2020-06-19 14:08:03] [shwetagawai03]  Session started!
+INFO [2020-06-19 14:08:03] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-19 14:08:07] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-19 14:08:07] [shwetagawai03]  - Current IP is "103.143.8.122" and it's from "India/IN"
+INFO [2020-06-19 14:08:07] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-19 14:08:07] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-19 14:08:07] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-19 14:08:20] [shwetagawai03]  Logged in successfully!
+INFO [2020-06-19 14:08:20] [shwetagawai03]  Saving account progress...
+INFO [2020-06-19 14:08:38] [shwetagawai03]  Workspace in use: "C:/Users/HP/InstaPy"
+INFO [2020-06-23 11:49:33] [shwetagawai03]  Session started!
+INFO [2020-06-23 11:49:34] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-23 11:49:38] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-23 11:49:38] [shwetagawai03]  - Current IP is "202.179.92.110" and it's from "India/IN"
+INFO [2020-06-23 11:49:38] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-23 11:49:38] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-23 11:49:38] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-23 11:49:52] [shwetagawai03]  Logged in successfully!
+INFO [2020-06-23 11:49:52] [shwetagawai03]  Saving account progress...
+INFO [2020-06-23 11:50:06] [shwetagawai03]  Tag [1/1]
+INFO [2020-06-23 11:50:06] [shwetagawai03]  --> b'natgeo'
+INFO [2020-06-23 11:50:17] [shwetagawai03]  desired amount: 19  |  top posts [disabled]: 9  |  possible posts: 20187765
+INFO [2020-06-23 11:50:23] [shwetagawai03]  Like# [1/19]
+INFO [2020-06-23 11:50:23] [shwetagawai03]  https://www.instagram.com/p/CBxG4xbgNBt/
+INFO [2020-06-23 11:50:27] [shwetagawai03]  Image from: b'wall_of_frames98'
+INFO [2020-06-23 11:50:27] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxG4xbgNBt/'
+INFO [2020-06-23 11:50:27] [shwetagawai03]  Description: b'\xf0\x9f\x8c\xb9\xe2\x9d\xa4\xef\xb8\x8f\n.\n.\n.\nPic Credit_- @rahil_bhongade\n.\n#mobile_photography_collection\n#maharashtra #punekars #pune #nagpur #mobilephotography #amravati #indianphotography #kerala #nature #natgeo #loveyourself #maibhisadakchap #instamood #mustacreateathome #blue #spreadlove #punephotographers #_eoi #gun_eat #abstractart #photigraphers_of_indian #photoofthrday #light #wadacommunity  #chalta_fhirta #mumbai_uncensored #quarantineworkout #spereadkhushiya'
+INFO [2020-06-23 11:56:25] [shwetagawai03]  Sessional Live Report:
+	|> No any statistics to show
+
+On session start was FOLLOWING 72 users & had 5 FOLLOWERS
+[Session lasted 7.35 minutes]
+INFO [2020-06-23 11:56:25] [shwetagawai03]  Session ended!
+INFO [2020-06-23 12:06:34] [shwetagawai03]  Session started!
+INFO [2020-06-23 12:06:34] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-23 12:06:38] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-23 12:06:38] [shwetagawai03]  - Current IP is "202.179.92.110" and it's from "India/IN"
+INFO [2020-06-23 12:06:38] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-23 12:06:38] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-23 12:06:38] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-23 12:06:58] [shwetagawai03]  Logged in successfully!
+INFO [2020-06-23 12:06:58] [shwetagawai03]  Saving account progress...
+INFO [2020-06-23 12:07:16] [shwetagawai03]  Tag [1/1]
+INFO [2020-06-23 12:07:16] [shwetagawai03]  --> b'natgeo'
+INFO [2020-06-23 12:07:35] [shwetagawai03]  desired amount: 19  |  top posts [disabled]: 9  |  possible posts: 20187931
+INFO [2020-06-23 12:07:42] [shwetagawai03]  Like# [1/19]
+INFO [2020-06-23 12:07:42] [shwetagawai03]  https://www.instagram.com/p/CBxI4RJhmO_/
+INFO [2020-06-23 12:08:17] [shwetagawai03]  Image from: b'aakarshak_bisht'
+INFO [2020-06-23 12:08:17] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxI4RJhmO_/'
+INFO [2020-06-23 12:08:17] [shwetagawai03]  Description: b'I love early Mornings when it feels like the Rest of the World is still fast asleep And you are the only one who\xe2\x80\x99s awake and everything feels like it isn\xe2\x80\x99t really real and you kind of forget about all your problems because for now it\xe2\x80\x99s just you, the world and the sunrise. #goodmorning #beautiful #lake #sukhna #chandigarh #sunrise #capture #sunriselover #travelgram #photographer #love  #instagood #canon #travelphotography #igtexas #nature #naturephotography #capturethemoment #india #landscape #earthfocus #travel #colours #birds_perfection #natgeo #tlc'
+INFO [2020-06-23 12:08:56] [shwetagawai03]  --> Image Liked!
+INFO [2020-06-23 12:09:03] [shwetagawai03]  --> Not commented
+INFO [2020-06-23 12:09:04] [shwetagawai03]  --> Not following
+INFO [2020-06-23 12:09:06] [shwetagawai03]  Like# [2/19]
+INFO [2020-06-23 12:09:06] [shwetagawai03]  https://www.instagram.com/p/CBxI2NunWix/
+INFO [2020-06-23 12:09:10] [shwetagawai03]  Image from: b'debanjan_dutt'
+INFO [2020-06-23 12:09:10] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxI2NunWix/'
+INFO [2020-06-23 12:09:10] [shwetagawai03]  Description: b'Paving your way to the top .\n.\n29th September 2019\n.\n.\nOn our way from Manali to Kaza\nThis was one of the Most thrilling bus rides i have ever been on and also one of the longest. It took us about 12 hours and 30 minutes for the whole journey.\n\nKaza altitude - 3800 m\nTotal distance - 202 km\nBus fare - 360 rs \n#budgettravels #spiti #spitivalley\n#spitidiaries\n#natgeotraveller #natgeo #natgeotravellerindia #sudhirshivaramphotograph #traveltheworld #igtravel #travelblogger #exploremore #travelblog #travelling #toptags #traveler #letsgosomewhere #lonelyplanet #traveller #globetrotter #travelbug #traveladdict #traveldeeper #instapassport #travelawesome #mytravelgram #travelingram #outdoors #backpacking #roadtrip'
+INFO [2020-06-23 12:09:10] [shwetagawai03]  Location: b'Spiti Valley'
+INFO [2020-06-23 12:09:52] [shwetagawai03]  --> Image Liked!
+INFO [2020-06-23 12:09:54] [shwetagawai03]  --> Not commented
+INFO [2020-06-23 12:09:55] [shwetagawai03]  --> Not following
+INFO [2020-06-23 12:09:56] [shwetagawai03]  Like# [3/19]
+INFO [2020-06-23 12:09:56] [shwetagawai03]  https://www.instagram.com/p/CBxI2KsA4vi/
+INFO [2020-06-23 12:10:54] [shwetagawai03]  Image from: b'ragavan_vnr'
+INFO [2020-06-23 12:10:54] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxI2KsA4vi/'
+INFO [2020-06-23 12:10:54] [shwetagawai03]  Description: b'Red Junglefowl \n#redjunglefowl #junglefowl\n #bird #birds #birdsofinstagram #birdshots #birdsofsingapore #birdlovers #birdsphotography #wildlife #naturephotography #naturelovers #wildphotography #wildlifephotography #singaporewildlife #nparksbuzz \n#SonyA7RIV\xc2\xa0#SonyA7R4\xc2\xa0#A7RIV #sonysingapore\xc2\xa0#SonyAlphasg \n#natgeo #yourshotphotographer #natgeoyourshot #natgeoasia #natgeowild #natgeowildlife #natgeofineart #ragavan_photography #ragavan_vnr'
+INFO [2020-06-23 12:10:54] [shwetagawai03]  Location: b'Singapore'
+INFO [2020-06-23 12:10:58] [shwetagawai03]  Sessional Live Report:
+	|> No any statistics to show
+
+On session start was FOLLOWING 72 users & had 5 FOLLOWERS
+[Session lasted 4.59 minutes]
+INFO [2020-06-23 12:10:58] [shwetagawai03]  Session ended!
+INFO [2020-06-23 13:37:19] [shwetagawai03]  Session started!
+INFO [2020-06-23 13:37:19] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-23 13:37:26] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-23 13:37:26] [shwetagawai03]  - Current IP is "202.179.92.110" and it's from "India/IN"
+INFO [2020-06-23 13:37:26] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-23 13:37:26] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-23 13:37:27] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-23 13:37:42] [shwetagawai03]  Logged in successfully!
+INFO [2020-06-23 13:37:42] [shwetagawai03]  Saving account progress...
+INFO [2020-06-23 13:38:11] [shwetagawai03]  Tag [1/1]
+INFO [2020-06-23 13:38:11] [shwetagawai03]  --> b'natgeo'
+INFO [2020-06-23 13:38:21] [shwetagawai03]  desired amount: 19  |  top posts [disabled]: 9  |  possible posts: 20188585
+INFO [2020-06-23 13:38:28] [shwetagawai03]  Like# [1/19]
+INFO [2020-06-23 13:38:28] [shwetagawai03]  https://www.instagram.com/p/CBxTPMUoSqL/
+INFO [2020-06-23 13:38:32] [shwetagawai03]  Image from: b'erika.fichera'
+INFO [2020-06-23 13:38:32] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxTPMUoSqL/'
+INFO [2020-06-23 13:38:32] [shwetagawai03]  Description: b'... Pirineos...\nBy: Erika Fichera\nCamera: Canon eos 650D\n.\n.\n.\n.\n. \n#picoftheday #pic #pictureoftheday #canonphotography #canon #nature #instagood #instagram #photography #eyes #natgeo #mountains #lake #camera #travel #naturaleza #instaphoto #instapic #summer #paradise #love #travelphotography #places #aroundtheworld #spain #pirineos'
+INFO [2020-06-23 13:39:11] [shwetagawai03]  --> Image Liked!
+INFO [2020-06-23 13:39:49] [shwetagawai03]  --> Not commented
+INFO [2020-06-23 13:39:50] [shwetagawai03]  --> Not following
+INFO [2020-06-23 13:39:51] [shwetagawai03]  Like# [2/19]
+INFO [2020-06-23 13:39:51] [shwetagawai03]  https://www.instagram.com/p/CBxTOBQAZoj/
+INFO [2020-06-23 13:39:58] [shwetagawai03]  Image from: b'shelest_star'
+INFO [2020-06-23 13:39:58] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxTOBQAZoj/'
+INFO [2020-06-23 13:39:58] [shwetagawai03]  Description: b'\xd0\x92\xd0\xbe\xd1\x82 \xd1\x82\xd0\xb0\xd0\xba\xd0\xbe\xd0\xb9 \xd0\xbb\xd1\x8e\xd0\xbf\xd0\xb8\xd0\xbd\xd1\x87\xd0\xb8\xd0\xba \xd0\xbc\xd0\xbd\xd0\xb5 \xd0\xbf\xd0\xbe\xd0\xbf\xd0\xb0\xd0\xbb\xd1\x81\xd1\x8f. \xd0\x9f\xd0\xbe\xd1\x85\xd0\xbe\xd0\xb6 \xd0\xbd\xd0\xb0 \xd0\xb2\xd0\xb7\xd1\x8a\xd0\xb5\xd1\x80\xd0\xbe\xd1\x88\xd0\xb5\xd0\xbd\xd0\xbd\xd1\x83\xd1\x8e \xd0\xbf\xd1\x82\xd0\xb8\xd1\x86\xd1\x83 \xe2\x98\xba\xef\xb8\x8f #\xd0\xbb\xd1\x8e\xd0\xbf\xd0\xb8\xd0\xbd #lupin #\xd1\x80\xd0\xbe\xd0\xb7\xd0\xbe\xd0\xb2\xd1\x8b\xd0\xb9\xd1\x86\xd0\xb2\xd0\xb5\xd1\x82\xd0\xbe\xd0\xba\xf0\x9f\x8c\xb8 #\xd1\x80\xd0\xb0\xd1\x81\xd1\x82\xd0\xb5\xd0\xbd\xd0\xb8\xd1\x8f #\xd1\x86\xd0\xb2\xd0\xb5\xd1\x82\xd1\x8b #\xd0\xbf\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb4\xd0\xb0 #\xd0\xbf\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb4\xd0\xb0\xd0\xa0\xd0\xbe\xd1\x81\xd1\x81\xd0\xb8\xd0\xb8 #\xd0\xbf\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb4\xd0\xb0\xd0\xbf\xd0\xbe\xd0\xb4\xd0\xbc\xd0\xbe\xd1\x81\xd0\xba\xd0\xbe\xd0\xb2\xd1\x8c\xd1\x8f #\xd1\x84\xd0\xbe\xd1\x82\xd0\xbe\xd0\xbf\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb4\xd0\xb0 #\xd0\xbb\xd1\x8e\xd0\xb1\xd0\xbb\xd1\x8e\xd0\xbf\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb4\xd1\x83 #\xd0\xbc\xd0\xb8\xd1\x80\xd0\xb2\xd0\xbe\xd0\xba\xd1\x80\xd1\x83\xd0\xb3\xd0\xbd\xd0\xb0\xd1\x81 #\xd0\xba\xd1\x80\xd0\xb0\xd1\x81\xd0\xbe\xd1\x82\xd0\xb0 #\xd0\xba\xd1\x80\xd0\xb0\xd1\x81\xd0\xbe\xd1\x82\xd0\xb0\xd0\xbf\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb4\xd1\x8b #\xd0\xba\xd1\x80\xd0\xb0\xd1\x81\xd0\xbe\xd1\x82\xd0\xb0\xd0\xb2\xd0\xbe\xd0\xba\xd1\x80\xd1\x83\xd0\xb3\xd0\xbd\xd0\xb0\xd1\x81 #\xd0\xba\xd1\x80\xd0\xb0\xd1\x81\xd0\xbe\xd1\x82\xd0\xb0\xd0\xb2\xd0\xbc\xd0\xb5\xd0\xbb\xd0\xbe\xd1\x87\xd0\xb0\xd1\x85 #nature #naturephotography #natgeo #natgeoru #natgeorussia #ic_nature #\xd0\xbf\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb4\xd0\xb0\xd0\xbb\xd1\x83\xd1\x87\xd1\x88\xd0\xb8\xd0\xb9\xd1\x85\xd1\x83\xd0\xb4\xd0\xbe\xd0\xb6\xd0\xbd\xd0\xb8\xd0\xba #\xd0\xb4\xd0\xbc\xd0\xb8\xd1\x82\xd1\x80\xd0\xbe\xd0\xb2\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9\xd1\x80\xd0\xb0\xd0\xb9\xd0\xbe\xd0\xbd #floverstagram #\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb5\xd0\xb2\xd0\xbd\xd1\x8f #\xd0\xbb\xd0\xb5\xd1\x82\xd0\xbe #\xd1\x83\xd1\x87\xd1\x83\xd1\x81\xd1\x8c\xd1\x84\xd0\xbe\xd1\x82\xd0\xbe\xd0\xb3\xd1\x80\xd0\xb0\xd1\x84\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd1\x8c  #\xd1\x81\xd0\xbd\xd1\x8f\xd1\x82\xd0\xbe\xd0\xbd\xd0\xb0\xd1\x81\xd0\xbc\xd0\xb0\xd1\x80\xd1\x82\xd1\x84\xd0\xbe\xd0\xbd #\xd1\x81\xd0\xbd\xd1\x8f\xd1\x82\xd0\xbe\xd0\xbd\xd0\xb0huawei'
+INFO [2020-06-23 13:39:58] [shwetagawai03]  Location: b'\xd0\xa1\xd0\xbf\xd0\xb8\xd1\x80\xd0\xb8\xd0\xb4\xd0\xbe\xd0\xb2\xd0\xbe (\xd0\x9c\xd0\xbe\xd1\x81\xd0\xba\xd0\xbe\xd0\xb2\xd1\x81\xd0\xba\xd0\xb0\xd1\x8f \xd0\xbe\xd0\xb1\xd0\xbb\xd0\xb0\xd1\x81\xd1\x82\xd1\x8c)'
+INFO [2020-06-23 13:40:35] [shwetagawai03]  --> Image Liked!
+INFO [2020-06-23 13:40:38] [shwetagawai03]  --> Not commented
+INFO [2020-06-23 13:40:39] [shwetagawai03]  --> Not following
+INFO [2020-06-23 13:40:40] [shwetagawai03]  Like# [3/19]
+INFO [2020-06-23 13:40:40] [shwetagawai03]  https://www.instagram.com/p/CBxTNU3AWZB/
+INFO [2020-06-23 13:41:06] [shwetagawai03]  Image from: b'antonio_sanchez_89'
+INFO [2020-06-23 13:41:06] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxTNU3AWZB/'
+INFO [2020-06-23 13:41:06] [shwetagawai03]  Description: b'Buenos d\xc3\xadas.\nCr\xc3\xadas de Golondrina com\xc3\xban.\nEsperando a mam\xc3\xa1 con muchas ganas.\nUn saludo para todos y que pas\xc3\xa9is un buen d\xc3\xada.\n.\n.\n. \n#earthcapture #raw_birds #nuts_about_birds #shots_of_animals #king_birds #best_birds_of_ig #bestbirds #bestbirdshot #birdwatcher #estaes_extremadura #birdwatching #natgeo #bird_brillance #canonwildlifephothography #birds_nature #wildlifeplanets #bbcearth #wildlifephotography #your_best_birds #discover_extremadura #naturegeography #world_bestanimal #naturaleza_spain #golondrina #addicted_to_extremadura #wildlifeonearth #birds #elite_raptors #florayfauna_es #naturaleza_extremadura'
+INFO [2020-06-23 13:41:06] [shwetagawai03]  Location: b'Aldea del Cano, Spain'
+INFO [2020-06-23 13:41:44] [shwetagawai03]  --> Image Liked!
+INFO [2020-06-23 13:41:47] [shwetagawai03]  --> Not commented
+INFO [2020-06-23 13:41:47] [shwetagawai03]  --> Not following
+INFO [2020-06-23 13:41:49] [shwetagawai03]  Like# [4/19]
+INFO [2020-06-23 13:41:49] [shwetagawai03]  https://www.instagram.com/p/CBxTKqhBBVQ/
+INFO [2020-06-23 13:41:53] [shwetagawai03]  Image from: b'bhuvan_rai_'
+INFO [2020-06-23 13:41:54] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxTKqhBBVQ/'
+INFO [2020-06-23 13:41:54] [shwetagawai03]  Description: b'When you actually feel thoughtful around the nature - as I keep saying, It\xe2\x80\x99s important to be thoughtful and mindful about the things we have around us.............................................................................................................................................................................................................. #colorsofindia #animallovers #painting #digitalart #artistic #instagood #instaquote #instastyle #passion #nature_addict #naturepic #nature_prefection #travelbug #instatravel #travellife #portraitphotography #photooftheday #landscapephotography #photographerslife #rai_exclusiveframes #wildlife_photography #colour #natgeo #animal_bestshots #travelphotography #bbcwildlife #nammakarnatakaphotographers @mobile__photography___ @indian_photographers__hub @indian_photography_club_ @indian.photography @namma_karnataka_clicks @namma.mysuru.photographers @masthmysoreonline @mysuru_heritage_heaven @travel_karnataka @incredibleindia @colours.of.india #natgeo @namma.karnataka.photographers @namma_karnataka_clicks @birds_private @natgeoindia @nikonasia @nikonindiaofficial #wildlifeplanet #foodporn #instagood'
+INFO [2020-06-23 13:41:54] [shwetagawai03]  Location: b'Mysore, Karnataka'
+INFO [2020-06-23 13:42:30] [shwetagawai03]  --> Image Liked!
+INFO [2020-06-23 13:42:32] [shwetagawai03]  --> Not commented
+INFO [2020-06-23 13:42:33] [shwetagawai03]  --> Not following
+INFO [2020-06-23 13:42:34] [shwetagawai03]  Like# [5/19]
+INFO [2020-06-23 13:42:34] [shwetagawai03]  https://www.instagram.com/p/CBxTKlMlVgL/
+INFO [2020-06-23 13:42:37] [shwetagawai03]  Image from: b'bisonry_'
+INFO [2020-06-23 13:42:38] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxTKlMlVgL/'
+INFO [2020-06-23 13:42:38] [shwetagawai03]  Description: b"Meet Bisonry.com official House Representative. She's a fine Scottish fold, 4 years old, she's got 5 beautiful babies and her offspring is living on 5 different continents, has a temper of a sous chef, she loves mountains and watching @natgeo \n#cat #catsofinstagram #catlife #cats #catsofig #catslover #camping #hikingadventures #patagonia #natgeo #natgeowild #scottishfold #scottishfoldlovers #scottishfoldcat  #wildernessculture #exploremore #optoutside #catsofcolorado #catsofwyoming #catsofcalifornia #catsofnewyork #souschef #mountains #bisonry #jhdreaming"
+INFO [2020-06-23 13:42:38] [shwetagawai03]  Location: b'Jackson Hole, Wyoming'
+INFO [2020-06-23 13:43:13] [shwetagawai03]  --> Image Liked!
+INFO [2020-06-23 13:43:15] [shwetagawai03]  --> Not commented
+INFO [2020-06-23 13:43:16] [shwetagawai03]  --> Not following
+INFO [2020-06-23 13:43:17] [shwetagawai03]  Like# [6/19]
+INFO [2020-06-23 13:43:17] [shwetagawai03]  https://www.instagram.com/p/CBxTJuVpzAo/
+INFO [2020-06-23 13:43:20] [shwetagawai03]  Image from: b'zatula_alexandr'
+INFO [2020-06-23 13:43:20] [shwetagawai03]  Link: b'https://www.instagram.com/p/CBxTJuVpzAo/'
+INFO [2020-06-23 13:43:20] [shwetagawai03]  Description: b'Kamchatka\xf0\x9f\x93\x8d #kamchatka #travel #photo #volcano #foto #lightroom #nature #photorussia #rosphoto #vsco #landscape_russia #natgeo #photography #discovery'
+INFO [2020-06-23 13:43:20] [shwetagawai03]  Location: b'\xd0\x9a\xd0\xb0\xd0\xbc\xd1\x87\xd0\xb0\xd1\x82\xd0\xba\xd0\xb0'
+INFO [2020-06-23 13:48:56] [shwetagawai03]  Sessional Live Report:
+	|> No any statistics to show
+
+On session start was FOLLOWING 72 users & had 5 FOLLOWERS
+[Session lasted 11.81 minutes]
+INFO [2020-06-23 13:48:56] [shwetagawai03]  Session ended!
+INFO [2020-06-24 12:08:32] [shwetagawai03]  Session started!
+INFO [2020-06-24 12:08:32] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+WARNING [2020-06-24 12:08:43] [shwetagawai03]  - Internet Connection Status: error
+CRITICAL [2020-06-24 12:08:44] [shwetagawai03]  Unable to login to Instagram! You will find more information in the logs above.
+INFO [2020-06-24 12:08:49] [shwetagawai03]  Sessional Live Report:
+	|> No any statistics to show
+
+
+[Session lasted 1.48 minutes]
+INFO [2020-06-24 12:08:49] [shwetagawai03]  Session ended!
+INFO [2020-06-24 12:09:35] [shwetagawai03]  Session started!
+INFO [2020-06-24 12:09:35] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-24 12:09:39] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-24 12:09:39] [shwetagawai03]  - Current IP is "202.179.92.110" and it's from "India/IN"
+INFO [2020-06-24 12:09:39] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-24 12:09:39] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-24 12:09:39] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-24 12:10:25] [shwetagawai03]  Timed out with failure while explicitly waiting until title contains 'Login' string!
+
+INFO [2020-06-24 12:11:04] [shwetagawai03]  Timed out with failure while explicitly waiting until visibility of element located!
+
+INFO [2020-06-24 12:11:12] [shwetagawai03]  Sessional Live Report:
+	|> No any statistics to show
+
+
+[Session lasted 1.79 minutes]
+INFO [2020-06-24 12:11:12] [shwetagawai03]  Session ended!
+INFO [2020-06-24 13:37:38] [shwetagawai03]  Session started!
+INFO [2020-06-24 13:37:38] [shwetagawai03]  Tag [1/3]
+INFO [2020-06-24 13:37:38] [shwetagawai03]  --> b'healthyfood'
+INFO [2020-06-24 13:37:55] [shwetagawai03]  desired amount: 19  |  top posts [disabled]: 9  |  possible posts: 78665786
+INFO [2020-06-24 13:38:02] [shwetagawai03]  Follow# [1/19]
+INFO [2020-06-24 13:38:02] [shwetagawai03]  https://www.instagram.com/p/CBz4A8BA-UC/
+INFO [2020-06-24 13:40:39] [shwetagawai03]  Session started!
+INFO [2020-06-24 13:40:39] [shwetagawai03]  -- Connection Checklist [1/2] (Internet Connection Status)
+INFO [2020-06-24 13:40:44] [shwetagawai03]  - Internet Connection Status: ok
+INFO [2020-06-24 13:40:44] [shwetagawai03]  - Current IP is "202.179.92.110" and it's from "India/IN"
+INFO [2020-06-24 13:40:44] [shwetagawai03]  -- Connection Checklist [2/2] (Hide Selenium Extension)
+INFO [2020-06-24 13:40:44] [shwetagawai03]  - window.navigator.webdriver response: True
+WARNING [2020-06-24 13:40:44] [shwetagawai03]  - Hide Selenium Extension: error
+INFO [2020-06-24 13:41:02] [shwetagawai03]  Logged in successfully!
+INFO [2020-06-24 13:41:02] [shwetagawai03]  Saving account progress...
+INFO [2020-06-24 13:41:41] [shwetagawai03]  Tag [1/3]
+INFO [2020-06-24 13:41:41] [shwetagawai03]  --> b'healthyfood'

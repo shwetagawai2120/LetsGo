@@ -1,0 +1,6 @@
+Download the file from github.
+Open the folder in Pycharm.
+Click on nope.py file and open it.
+Run the program by this command
+python nope.py 
+in the terminal.

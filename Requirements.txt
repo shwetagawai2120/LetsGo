@@ -1,0 +1,4 @@
+Install instapy
+Install selenium
+Download chromedriver of your particular Chrome version.
+Download geckodriver For running the code in Mozilla Firefox. 
